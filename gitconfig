@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = naima.fatimaduyser@gmail.com
+	name = Naima Duyser
